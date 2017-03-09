@@ -11,7 +11,7 @@
   "author": "stoffern",
   "license": "MIT",
   "dependencies":{
-    "gl-react-native": "~2.2.0",
+    "gl-react-native": "^2.42.1",
     "gl-react-contrast-saturation-brightness": "^1.1.0",
     "gl-react-hue-rotate": "^1.1.0",
     "gl-react-negative": "^1.1.0",
@@ -20,8 +20,7 @@
     "gl-react-temperature": "^1.0.2"
   },
   "peerDependencies": {
-    "gl-react": "^2.2.5",
-    "react": "^15.2.1"
+    "gl-react": "^2.2.4",
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
