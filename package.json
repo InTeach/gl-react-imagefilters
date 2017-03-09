@@ -20,7 +20,7 @@
     "gl-react-temperature": "^1.0.2"
   },
   "peerDependencies": {
-    "gl-react": "^2.2.4",
+    "gl-react": "^2.2.4"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
